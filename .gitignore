@@ -23,7 +23,7 @@ yarn-debug.log*
 yarn-error.log*
 
 <<<<<<< HEAD
-.vscode
+/.vscode
 =======
 .vscode
 >>>>>>> f19f1add1586c647c8fe82151c9378081b81efa7
