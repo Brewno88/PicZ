@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Picz/static/css/main.69080fea.chunk.css",
+    "main.js": "/Picz/static/js/main.6ae4a37c.chunk.js",
+    "main.js.map": "/Picz/static/js/main.6ae4a37c.chunk.js.map",
+    "runtime-main.js": "/Picz/static/js/runtime-main.0bde090b.js",
+    "runtime-main.js.map": "/Picz/static/js/runtime-main.0bde090b.js.map",
+    "static/js/2.ffc13dbb.chunk.js": "/Picz/static/js/2.ffc13dbb.chunk.js",
+    "static/js/2.ffc13dbb.chunk.js.map": "/Picz/static/js/2.ffc13dbb.chunk.js.map",
+    "index.html": "/Picz/index.html",
+    "precache-manifest.9973d01847c7c6856686059d7511091d.js": "/Picz/precache-manifest.9973d01847c7c6856686059d7511091d.js",
+    "service-worker.js": "/Picz/service-worker.js",
+    "static/css/main.69080fea.chunk.css.map": "/Picz/static/css/main.69080fea.chunk.css.map",
+    "static/js/2.ffc13dbb.chunk.js.LICENSE": "/Picz/static/js/2.ffc13dbb.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bde090b.js",
+    "static/js/2.ffc13dbb.chunk.js",
+    "static/css/main.69080fea.chunk.css",
+    "static/js/main.6ae4a37c.chunk.js"
+  ]
+}
