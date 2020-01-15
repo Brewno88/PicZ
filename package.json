@@ -1,5 +1,5 @@
 {
-  "name": "pics",
+  "name": "Picz",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://brewno88.github.io/Picz",
@@ -34,5 +34,17 @@
   },
   "devDependencies": {
     "gh-pages": "^2.2.0"
+  },
+  "description": "The app will show 10 images relate to the word typed in the search field.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brewno88/PicZ.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brewno88/PicZ/issues"
   }
 }
