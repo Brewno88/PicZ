@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Picz/static/css/main.d9a6309c.chunk.css",
-    "main.js": "/Picz/static/js/main.cf6763ad.chunk.js",
-    "main.js.map": "/Picz/static/js/main.cf6763ad.chunk.js.map",
-    "runtime-main.js": "/Picz/static/js/runtime-main.0bde090b.js",
-    "runtime-main.js.map": "/Picz/static/js/runtime-main.0bde090b.js.map",
-    "static/js/2.ffc13dbb.chunk.js": "/Picz/static/js/2.ffc13dbb.chunk.js",
-    "static/js/2.ffc13dbb.chunk.js.map": "/Picz/static/js/2.ffc13dbb.chunk.js.map",
+    "main.js": "/Picz/static/js/main.9acb20fc.chunk.js",
+    "main.js.map": "/Picz/static/js/main.9acb20fc.chunk.js.map",
+    "runtime-main.js": "/Picz/static/js/runtime-main.e490ba7b.js",
+    "runtime-main.js.map": "/Picz/static/js/runtime-main.e490ba7b.js.map",
+    "static/js/2.3c764008.chunk.js": "/Picz/static/js/2.3c764008.chunk.js",
+    "static/js/2.3c764008.chunk.js.map": "/Picz/static/js/2.3c764008.chunk.js.map",
     "index.html": "/Picz/index.html",
-    "precache-manifest.1c718a8329e1963a25e961d911396471.js": "/Picz/precache-manifest.1c718a8329e1963a25e961d911396471.js",
+    "precache-manifest.ea07f05096bfdae7cc4e1904050281ad.js": "/Picz/precache-manifest.ea07f05096bfdae7cc4e1904050281ad.js",
     "service-worker.js": "/Picz/service-worker.js",
     "static/css/main.d9a6309c.chunk.css.map": "/Picz/static/css/main.d9a6309c.chunk.css.map",
-    "static/js/2.ffc13dbb.chunk.js.LICENSE": "/Picz/static/js/2.ffc13dbb.chunk.js.LICENSE"
+    "static/js/2.3c764008.chunk.js.LICENSE": "/Picz/static/js/2.3c764008.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.0bde090b.js",
-    "static/js/2.ffc13dbb.chunk.js",
+    "static/js/runtime-main.e490ba7b.js",
+    "static/js/2.3c764008.chunk.js",
     "static/css/main.d9a6309c.chunk.css",
-    "static/js/main.cf6763ad.chunk.js"
+    "static/js/main.9acb20fc.chunk.js"
   ]
 }
